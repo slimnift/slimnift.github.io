@@ -1,0 +1,33 @@
+.imagecontainer {
+    display: flex;
+    background-color: red;
+    flex-wrap: wrap;
+
+
+}
+
+#youtube {
+    background-color: blue;
+    flex-grow: 1;
+}
+
+#google {
+    background-color: green;
+    flex-grow: 1;
+
+}
+
+.imgresize {
+    max-width: 100%;
+}
+
+#main {
+    display: flex;
+    background-color: brown;
+}
+
+.child {
+    border: 2px solid;
+    flex-basis: 0;
+    flex-grow: 1;
+}

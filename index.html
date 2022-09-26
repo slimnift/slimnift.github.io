@@ -1,1 +1,64 @@
-"Hello World" 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="GoogleRedditSearch.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div class="maincontainer">
+
+        <div class="panel">
+            <form id="searchGoogle" action="https://www.google.com/search">
+                <img src="Google_logo.png" class="myimg">
+                <br>
+                <div class="radiobuttons">
+                    <input type="radio" name="q" id="nonerad" value="">
+                    <label for="nonerad">None</label>
+                    <br>
+                    <input type="radio" name="q" id="redditrad" value="site:reddit.com" checked>
+                    <label for="redditrad">Reddit</label>
+                </div>
+
+                <div class="textcontainer">
+                    <!-- <div class="label" id="excludeTxt">Exclude Subreddits</div> -->
+                    <div class="label"><label for="exclude">Exclude subreddits</label></div>
+                    <input type="text" id="exclude" name="q" placeholder="-theredpill">
+                    <div class="label"><label for="include">Include subreddits</label></div>
+                    <input type="text" id="include" name="q">
+
+
+                </div>
+                <div class="textcontainer">
+                    <input type="text" id="searchQuery" name="q" value="" size="50" autofocus>
+                </div>
+                <button>Submit Google</button>
+            </form>
+        </div>
+
+        <div class="panel">
+            <form action="https://www.youtube.com/results">
+                <img src="YouTube_logo.png" class="myimg">
+                <p>
+                    <input type="text" id="includeYouTube" name="search_query" size="50">
+                </p>
+                <button>Submit YouTube</button>
+            </form>
+        </div>
+
+    </div>
+    <div id="madeby">
+        Made by <a href="ContentByJason.html">Jason</a>
+    </div>
+
+    <script src="GoogleRedditSearch.js"></script>
+
+
+</body>
+
+</html>
