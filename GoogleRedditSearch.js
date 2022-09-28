@@ -8,7 +8,8 @@ const includeYouTube = document.querySelector('#includeYouTube');
 form.addEventListener('submit', function submit(e) {
     //window.alert('sup');
     e.preventDefault();
-    let searchString = radio.value + ' ' + searchQuery.value + ' ' + 'inurl:("r/' + include.value + '")' + ' -()' + exclude.value;
+    //let searchString = radio.value + ' ' + searchQuery.value + ' ' + 'inurl:("r/' + include.value + '")' + ' -()' + exclude.value;
+    let searchString = radio.value + ' ' + searchQuery.value;
     window.location.href = 'https://www.google.com/search?q=' + searchString;
 
 
