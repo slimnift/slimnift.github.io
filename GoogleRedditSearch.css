@@ -45,6 +45,17 @@
     flex-grow: 0;
 }
 
+#todo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    background-color: rgb(193, 240, 203);
+    padding: 20px;
+
+
+}
+
 #madeby {
     display: block;
     text-align: center;
