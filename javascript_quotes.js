@@ -5,6 +5,8 @@ var oldquotes = [
     'Great minds discuss ideas. Average minds discuss events. Small minds discuss people. - Henry Thomas Buckle'
 ]
 
+//Note: if you use DOUBLE quotes "" then you don't have to escape single quotes
+
 var quotes = [
     'We have to continually be jumping off cliffs and developing our wings on the way down.― Kurt Vonnegut, If This Isn\'t Nice, What Is?Advice for the Young',
     'Don\'t be satisfied with stories, how things have gone with others. Unfold your own myth.― Rumi, The Essential Rumi',
