@@ -23,7 +23,6 @@ var quotes = [
     'An idea that is not dangerous is unworthy of being called an idea at all.― Oscar Wilde',
     'There are painters who transform the sun to a yellow spot, but there are others who with the help of their art and their intelligence, transform a yellow spot into sun― Pablo Picasso',
     'Doors are for people with no imagination.― Derek Landy, Skulduggery Pleasant',
-    'When you make music or write or create, it\'s really your job to have mind-blowing, irresponsible, condomless sex with whatever idea it is you\'re writing about at the time. ― Lady Gaga',
     'The painter has the Universe in his mind and hands.― Leonardo da Vinci',
     'One must still have chaos in oneself to be able to give birth to a dancing star.― Friedrich Nietzsche',
     'You can never solve a problem on the level on which it was created.― Albert Einstein',
