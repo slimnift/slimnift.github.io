@@ -36,6 +36,7 @@ var quotes = [
     'If you\'re not prepared to be wrong, you\'ll never come up with anything original.― Ken Robinson, The ElementHow Finding Your Passion Changes Everything',
     'A tragedy is a tragedy, and at the bottom, all tragedies are stupid. Give me a choice and I\'ll take A Midsummer Night\'s Dream over Hamlet every time. Any fool with steady hands and a working set of lungs can build up a house of cards and then blow it down, but it takes a genius to make people laugh.― Stephen King',
     'Rejection is an opportunity for your selection.― Bernard Branson',
+    'Inspiration exists, but it has to find you working. — Pablo Picasso',
 
 
 
