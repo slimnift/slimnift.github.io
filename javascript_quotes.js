@@ -24,7 +24,6 @@ var quotes = [
     'There are painters who transform the sun to a yellow spot, but there are others who with the help of their art and their intelligence, transform a yellow spot into sun― Pablo Picasso',
     'Doors are for people with no imagination.― Derek Landy, Skulduggery Pleasant',
     'The painter has the Universe in his mind and hands.― Leonardo da Vinci',
-    'One must still have chaos in oneself to be able to give birth to a dancing star.― Friedrich Nietzsche',
     'You can never solve a problem on the level on which it was created.― Albert Einstein',
     'The chief enemy of creativity is good sense.― Pablo Picasso',
     'There is a vitality, a life force, an energy, a quickening that is translated through you into action, and because there is only one of you in all time, this expression is unique. And if you block it, it will never exist through any other medium and will be lost.― Martha Graham',
