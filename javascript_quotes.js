@@ -22,7 +22,6 @@ var quotes = [
     'To be creative means to be in love with life. You can be creative only if you love life enough that you want to enhance its beauty, you want to bring a little more music to it, a little more poetry to it, a little more dance to it.― Osho',
     'An idea that is not dangerous is unworthy of being called an idea at all.― Oscar Wilde',
     'There are painters who transform the sun to a yellow spot, but there are others who with the help of their art and their intelligence, transform a yellow spot into sun― Pablo Picasso',
-    'Doors are for people with no imagination.― Derek Landy, Skulduggery Pleasant',
     'The painter has the Universe in his mind and hands.― Leonardo da Vinci',
     'You can never solve a problem on the level on which it was created.― Albert Einstein',
     'The chief enemy of creativity is good sense.― Pablo Picasso',
