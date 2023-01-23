@@ -34,7 +34,8 @@ var quotes = [
     'A tragedy is a tragedy, and at the bottom, all tragedies are stupid. Give me a choice and I\'ll take A Midsummer Night\'s Dream over Hamlet every time. Any fool with steady hands and a working set of lungs can build up a house of cards and then blow it down, but it takes a genius to make people laugh.― Stephen King',
     'Rejection is an opportunity for your selection.― Bernard Branson',
     'Inspiration exists, but it has to find you working. — Pablo Picasso',
-    "When we were children, we used to think that when we were grown up we would no longer be vulnerable. But to grow up is to accept vulnerability. To be alive is to be vulnerable. —Madeleine L Engle"
+    "When we were children, we used to think that when we were grown up we would no longer be vulnerable. But to grow up is to accept vulnerability. To be alive is to be vulnerable. —Madeleine L Engle",
+    "'[The most significant barrier to creativity and innovation is] the fear of introducing an idea and being ridiculed, laughed at, and belittled. If you’re willing to subject yourself to that experience, and if you survive it, then it becomes the fear of failure and the fear of being wrong.' - Kevin Surace",
 
 
 
